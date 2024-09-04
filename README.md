@@ -1,9 +1,11 @@
 🎮 Quiz Interativo de Frases em Coreano - Filtro Effect House
 
 Visão Geral
+
 Este filtro foi projetado para ajudar os usuários a aprender e praticar frases populares em coreano por meio de um formato de quiz interativo.
 
 Funcionalidades
+
 .Perguntas Aleatórias: O filtro contém um banco de dados com 10 perguntas, das quais  são selecionadas aleatoriamente a cada uso do filtro.
 .Interação com Movimento: Os usuários podem escolher a resposta correta inclinando a cabeça para a esquerda ou para a direita.
 .Sistema de Pontuação: Cada resposta correta aumenta a pontuação do usuário, permitindo acompanhar o progresso ao longo do quiz.
