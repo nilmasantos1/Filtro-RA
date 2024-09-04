@@ -1,0 +1,66 @@
+{
+	"id": "4cc2d530-1172-da9f-a37a-4368fb559ed5",
+	"name": "Cast",
+	"category": "Vector Operations",
+	"inputs": [
+		{
+			"name": "Value",
+			"description": "The value to cast.",
+			"type": "Number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Result",
+			"description": "The cast result.",
+			"type": "Number"
+		}
+	],
+	"description": "Cast value type.",
+	"supportedInputs": [
+		{
+			"in": [
+				"genType"
+			],
+			"out": [
+				"Number"
+			]
+		},
+		{
+			"in": [
+				"genType"
+			],
+			"out": [
+				"Vector2f"
+			]
+		},
+		{
+			"in": [
+				"genType"
+			],
+			"out": [
+				"Vector3f"
+			]
+		},
+		{
+			"in": [
+				"genType"
+			],
+			"out": [
+				"Vector4f"
+			]
+		},
+		{
+			"in": [
+				"genType"
+			],
+			"out": [
+				"Color"
+			]
+		}
+	],
+	"productTypes": [
+		"EHO", "EHD", "EHI"
+	],
+	"version": "1.0.0"
+}
