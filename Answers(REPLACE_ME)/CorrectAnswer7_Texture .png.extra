@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "25f11b27-4c1b-18a0-9d18-0499fbb12945",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "CorrectAnswer7_Texture ",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "C:\\Users\\nilma\\Desktop\\QUIZ RESPOSTAS CERTAS\\9.png"
+  }
+]

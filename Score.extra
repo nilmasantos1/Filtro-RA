@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "2d4fc548-e577-64f5-dca5-36a3ea78d36b",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Score",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

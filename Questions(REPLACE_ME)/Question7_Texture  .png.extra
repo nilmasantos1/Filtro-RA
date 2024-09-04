@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "03dc5313-f715-7cd1-5c80-0f143e638f9d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Question7_Texture  ",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "C:\\Users\\nilma\\Desktop\\9.png"
+  }
+]

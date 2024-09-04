@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "26abf8ca-43cf-3653-0e84-9d64dd21361d",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Answers(REPLACE_ME)",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]
