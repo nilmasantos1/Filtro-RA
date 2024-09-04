@@ -19,3 +19,7 @@ O objetivo deste filtro é tornar o aprendizado de frases em coreano mais acess�
 Inicie o filtro: O quiz começará automaticamente com uma pergunta aleatória.
 Selecione a resposta: Incline a cabeça para a esquerda ou direita para escolher uma das opções.
 Complete o quiz: Responda às 10 perguntas e veja sua pontuação final ao concluir o quiz.
+
+## QR CODE PARA TESTE
+![image](https://github.com/user-attachments/assets/4cec0d37-07d9-4bda-b3ff-b1b6e3f9c43d)
+
