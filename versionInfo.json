@@ -1,0 +1,14 @@
+{
+  "version": "4.4.1",
+  "handlers": {
+    "ComponentsCompatibilityHandler": {
+      "Transform": "2f91ec751391c0d8b5d698e286f891ed",
+      "EffectNode": "6bc7cd5b83ea8f776f325b41e995f88d",
+      "Camera": "6c15527321cd6d2f396f968d191a3dd0",
+      "FaceCapture": "85bd24afd012b51072e17e97395efeae",
+      "Image": "23265603292c3aebd68a3d2c0fa14ab3",
+      "EnvironmentLighting": "36cc82e07d59f32be0156b863ff6348e",
+      "LookAt": "c69ac17bc1edc1003e807c9595a58f23"
+    }
+  }
+}
