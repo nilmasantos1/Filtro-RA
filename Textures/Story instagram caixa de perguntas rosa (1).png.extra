@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "18c56365-4d51-0af0-9d51-a520d4de20ab",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Story instagram caixa de perguntas rosa (1)",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "C:\\Users\\nilma\\Downloads\\Story instagram caixa de perguntas rosa (1).png"
+  }
+]

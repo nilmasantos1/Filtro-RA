@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "7d27e200-2a29-8d41-0dc4-fb1e3edce792",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "OnePersonQuizAssets",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]
