@@ -21,5 +21,6 @@ Selecione a resposta: Incline a cabeça para a esquerda ou direita para escolher
 Complete o quiz: Responda às 10 perguntas e veja sua pontuação final ao concluir o quiz.
 
 ## QR CODE PARA TESTE
-![image](https://github.com/user-attachments/assets/4cec0d37-07d9-4bda-b3ff-b1b6e3f9c43d)
+![image](https://github.com/user-attachments/assets/9a29a53d-6104-4a10-91e6-774ed768cbc9)
+
 
